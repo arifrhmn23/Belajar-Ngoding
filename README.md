@@ -1,2 +1,2 @@
 # Belajar-Ngoding
-Pertama ngoding
+pertama ngoding
